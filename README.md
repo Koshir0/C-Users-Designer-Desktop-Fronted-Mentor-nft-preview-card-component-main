@@ -1,1 +1,1 @@
-# C-Users-Designer-Desktop-Fronted-Mentor-nft-preview-card-component-main
+nft-preview-card-component-main
